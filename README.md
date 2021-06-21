@@ -1,4 +1,4 @@
-# SmartWardrobe
+# ReactReactions
 
 In order to run you need to install `Docker` and `docker-compose` and take the following steps:
 
